@@ -1,0 +1,4 @@
+credentials.py
+.DS_Store
+exports/*
+/__pycache__/*
